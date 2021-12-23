@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="text_view_from_defu">From Value in:</string>
+    <string name="text_view_to_defu">To Value in:</string>
+    <string name="text_view_output_defu">0.00</string>
+    <string name="button_calculate_defu">Calculate</string>
+    <string name="currencies_list">Currencies List</string>
+    <string name="share">share</string>
+    <string name="share2">Share</string>
+</resources>
